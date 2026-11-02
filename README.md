@@ -35,4 +35,4 @@ DAX Expression A, B, C
 <img width="1280" height="720" alt="WIN_20200517_23_52_47_Pro" src="https://github.com/user-attachments/assets/f06f04eb-ca11-44d0-8551-a16542a62160" />
 
 ___
-[https://github.com/chidimmaugw/DSA2.0-Project/blob/131cedfd41b6dbe618cf78d947c6e304891d0101/000045-may%202020.JPG](image)
+[image](https://github.com/chidimmaugw/DSA2.0-Project/blob/131cedfd41b6dbe618cf78d947c6e304891d0101/000045-may%202020.JPG)
