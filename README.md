@@ -7,11 +7,11 @@ Portfolio built during INCUBATOR HUB's Data Analysis and Visualisation sessions
 
 ### Project Overview (very important to have for each project)
 
-*** add project overview here
+***add project overview here*
 
 ### Data Sources
 
-*** add data sources here
+***add data sources here*
 
 ### Tools Used
 
@@ -19,4 +19,11 @@ Portfolio built during INCUBATOR HUB's Data Analysis and Visualisation sessions
 - Power BI (For ETL process and the report visualisation) [download](https://www.microsoft.com/en-us/power-platform/products/power-bi/)
 
 ### Data Cleaning and Preparation
+- ***actions performed in etl*
 
+### Data Analysis
+basic lines of DAX expressions used during analysis
+
+Eg
+```
+DAX Expression A, B, C
