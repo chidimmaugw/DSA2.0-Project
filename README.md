@@ -15,5 +15,8 @@ Portfolio built during INCUBATOR HUB's Data Analysis and Visualisation sessions
 
 ### Tools Used
 
-- MS Excel (Data Imported as CSV file)
-- Power BI (For ETL process and the report visualisation) [download here](https://www.microsoft.com)
+- MS Excel (Data Imported as CSV file) [dowload](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- Power BI (For ETL process and the report visualisation) [download](https://www.microsoft.com/en-us/power-platform/products/power-bi/)
+
+### Data Cleaning and Preparation
+
