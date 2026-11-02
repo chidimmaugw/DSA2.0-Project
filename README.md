@@ -27,3 +27,10 @@ basic lines of DAX expressions used during analysis
 Eg
 ```
 DAX Expression A, B, C
+
+```
+
+### Visualisations (fun pictures of myself)
+
+<img width="1280" height="720" alt="WIN_20200517_23_52_47_Pro" src="https://github.com/user-attachments/assets/f06f04eb-ca11-44d0-8551-a16542a62160" />
+
